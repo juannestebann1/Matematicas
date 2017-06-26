@@ -11,4 +11,4 @@ DB["DATABASE_FILE"] 	= "examplesas.db"
 
 CONFIG["DEBUG"]			= True
 AUTORES = "Juan esteban alvarez & Julian Camilo Rodriguez"
-VERSION = 0.1
+VERSION = 0.1.5
