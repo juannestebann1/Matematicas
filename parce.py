@@ -1,1 +1,1 @@
-print "loca" yhy
+print "loca" y
